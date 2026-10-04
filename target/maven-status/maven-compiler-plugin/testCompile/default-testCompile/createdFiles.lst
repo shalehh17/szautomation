@@ -1,1 +1,9 @@
+id\co\juaracoding\selenium\pages\RegisterPage.class
 id\co\juaracoding\testng\TextUtilTest.class
+id\co\juaracoding\selenium\BaseSeleniumTest.class
+id\co\juaracoding\selenium\pages\ForgotPasswordPage.class
+id\co\juaracoding\selenium\LupaPasswordTest.class
+id\co\juaracoding\selenium\RegistrasiTest.class
+id\co\juaracoding\selenium\LoginTest.class
+id\co\juaracoding\selenium\pages\LoginPage.class
+id\co\juaracoding\util\TestConfig.class

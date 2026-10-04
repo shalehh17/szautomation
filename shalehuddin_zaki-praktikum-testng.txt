@@ -1,0 +1,4 @@
+Nama Lengkap : Shalehuddin Zaki
+Bootcamp     : SQA-RPA With Artificial Intelligence
+Batch        : 30
+Repo Github  : https://github.com/shalehh17/szautomation
