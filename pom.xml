@@ -13,6 +13,7 @@
         <testng.version>7.8.0</testng.version>
         <surefire.version>3.1.2</surefire.version>
         <selenium.version>4.21.0</selenium.version>
+        <restassured.version>5.4.0</restassured.version>
     </properties>
 
     <dependencies>
@@ -26,6 +27,12 @@
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
             <version>${selenium.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+            <version>${restassured.version}</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
